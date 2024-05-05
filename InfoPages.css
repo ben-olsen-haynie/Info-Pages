@@ -1,0 +1,21 @@
+#header {
+    position: fixed;
+    left: 25%;
+    top: 0px;
+}
+h2 {
+    width: 35%;
+    text-align: left;
+    float: right;
+}
+body {
+    background-color: grey;
+}
+
+img {
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+    border: solid black 7px;
+    border-radius: 10px;
+}
